@@ -1,6 +1,6 @@
 # README.md
 
-Meine Sammlung von nütlichen Powershell Scripten.
+Meine Sammlung von nützlichen PowerShell Skripten.
 
 ## Move-Files.ps1
 
